@@ -1,0 +1,13 @@
+{
+  "name": "linear",
+  "version": "0.5.0",
+  "description": "Linear math for JS",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/feisty/linear"
+  },
+  "license": "WTFPL",
+  "dependencies": {
+    "math": "feisty/math"
+  }
+}
